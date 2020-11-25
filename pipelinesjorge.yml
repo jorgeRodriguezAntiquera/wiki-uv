@@ -6,7 +6,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- draft
+- wikiMaster
 
 pool:
   vmImage: 'ubuntu-latest'
